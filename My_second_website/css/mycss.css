@@ -1,0 +1,63 @@
+@charset "utf-8";
+*{ margin: 0;
+padding: 0;
+border: 0;
+}
+
+
+body {
+    background-image: url("../Images/background.jpg");
+    background-size: cover;
+    
+}
+.header{
+	background-color: #E29E2D;
+    width: auto;
+	border-radius: 0px;
+    height: 55px;
+    font-family: 'Poiret One', cursive;
+    font-size: 30pt;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+}
+body p {
+}
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+}
+.container{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	
+}
+
+.Text {
+	font-family: 'Open Sans', sans-serif;
+	width: auto;
+	font-size: 11pt
+	
+}
+
+.something {
+    background-color: #E29E2D;
+    width: 61px;
+    border-radius: 20px;
+    height: 42px;
+    font-family: 'Poiret One', cursive;
+    font-size: 19pt;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.list-group-item{
+	align-content: center;
+	width: 200px;
+	
+}
+
