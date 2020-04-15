@@ -11,7 +11,7 @@ body {
     
 }
 .header{
-	background-color: #E29E2D;
+	background-color: #E5AE0D;
     width: auto;
 	border-radius: 0px;
     height: 55px;
@@ -21,28 +21,30 @@ body {
     text-align: left;
 }
 
-}
-body p {
+	
+.container{
 }
 .logo {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-bottom: auto;
-}
-.container{
-	margin-left: auto;
-	margin-right: auto;
-	width: 1200px;
-	
+  overflow: hidden;
+  text-align: right;
+	display: inline-block;
+
 }
 
 .Text {
 	font-family: 'Open Sans', sans-serif;
 	width: auto;
-	font-size: 11pt
+	font-size: 11pt;
+	display: inline-block;
+	
+		
+	width: 600px;
+	text-align: right;
+	align-items: flex-start;
+	float:left;
 	
 }
+
 
 .something {
     background-color: #E29E2D;
