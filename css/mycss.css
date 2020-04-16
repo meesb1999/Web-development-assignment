@@ -30,7 +30,12 @@ body {
   	text-align: left;
 	display: inline-block;
 	
-	
+}
+
+.Profilepicture{ 
+	overflow: hidden;
+  	text-align: left;
+	display: inline-block;
 }
 
 .Text {
@@ -38,10 +43,16 @@ body {
 	font-size: 11pt;
 	display: inline-block;
 	width: 600px;
-	text-align: right;
+	text-align: left;
 	
 }
-
+.welcomeText{ 
+	font-family: 'Open Sans', sans-serif;
+	font-size: 11pt;
+	display: inline-block;
+	width: 600px;
+	text-align: right;
+}
 
 .something {
     background-color: #E29E2D;
